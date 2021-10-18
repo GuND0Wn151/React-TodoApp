@@ -1,0 +1,48 @@
+.removelist{
+      display: flex;
+      background-color: aqua;
+      width: 20%;
+      margin: 10px auto auto auto;
+      text-align: center;
+      justify-content: space-between;
+}
+.removelist button{
+      width: 50px;
+      height: 50px;
+      border: none;
+      border: 1px;
+
+}
+.removelist h4{
+      text-align: center;
+      font-weight: lighter;
+      margin:10px auto auto 20px ;
+      margin-top: 10px;
+}
+.inputbox{
+      display: flex;
+      margin: 10px 10px 10px 10px;
+      height: 70px;
+      align-items: center;
+      justify-content: center;
+}
+.inputt{
+      width: 20%;
+
+      justify-content: space-around;
+      display: flex;
+
+}
+.inputt input{
+      text-align: center;
+      font-weight: lighter;
+      margin:10px auto auto 20px ;
+      margin-top: 10px;
+}
+.inputt button{
+      width: 50px;
+      height: 30px;
+      border: none;
+      border: 1px;
+      margin: 10px 10px 10px 10px;
+}
